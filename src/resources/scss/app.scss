@@ -1,0 +1,12 @@
+@import 'variables';
+
+.test {
+    font-weight: 600px;
+    color: blue;
+    display: flex;
+}
+
+h2 {
+    font-size: 20px;
+    color: $new-color;
+}
